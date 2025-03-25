@@ -2,8 +2,8 @@
 
 # Hernán Andrés Ianigro
 
-Hola, me llamo **Hernán** y este es mi cuarto cuatrimestre en la carrera de **Tecnicatura en Programación**.
-Tengo 34 años, a pocos días de cumplir 35.
+Hola, me llamo **Hernán** y este es mi quinto cuatrimestre en la carrera de **Tecnicatura en Programación**.
+Tengo 35 años.
 En los años 2021 y 2022 terminé los años 2º y 3º del polimodal que me habían quedado sin cursar luego de abandonar los estudios secundarios debido a problemas de salud, y al año siguiente comencé esta carrera en la universidad.
 
 Debido a mis problemas tuve diferentes trabajos formales cortos y muchos de forma independiente. Casi no salía de mi hogar hasta que tomé la decisión de seguir un tratamiento, ahí fue cuando también decidí terminar mis estudios.
